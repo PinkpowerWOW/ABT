@@ -221,7 +221,7 @@ local function UpdateData()
             
             if p <= 0 or f.isDeadAtList then
                 f.hpBar:SetVertexColor(0.2, 0.2, 0.2, 1)
-                f.hpText:SetText("МЕРТВ")
+                f.hpText:SetText("DEAD")
             else
                 local alpha = unitID and 1 or 0.4
                 f.hpBar:SetVertexColor(r * mult, g * mult, b * mult, alpha)
