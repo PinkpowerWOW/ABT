@@ -1,0 +1,22 @@
+﻿## Interface: 30300
+## Author:|cfff48cbaPinkpower|r
+## Title: [|cffFFFF00AB|r|cffFF4500T|r] by |cfff48cbaPinkpower|r
+## Notes: ASCENSION TARGETS(beta) by |cfff48cbaPinkpower|r
+## SavedVariables: AscensionTargetsDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+Healers.lua
+AscensionTargets.lua
+Options.lua
+Minimap.lua
+TargetQuick.lua
